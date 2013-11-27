@@ -1,0 +1,5 @@
+pacman -S nodejs 
+sudo npm install express
+
+express      # base files
+npm install  # get the packages needed
